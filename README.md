@@ -48,29 +48,7 @@ The Master scans and connects to both peripheral devices using their assigned Se
 
 ## Circuit Interfaces
 
-### Master Circuit
-![Master Circuit](assets/master_circuit.png)
+### Complete System Hardware Setup (Master and Dual Slaves)
+![Complete Circuit Setup](assets/circuit_setup.jng)
 
-### Slave 1 Circuit
-![Slave 1 Circuit](assets/slave1_circuit.png)
-
-### Slave 2 Circuit
-![Slave 2 Circuit](assets/slave2_circuit.png)
-
----
-
-## Serial Monitor Verification
-
-### Master Node Output
-![Master Serial Output](assets/master_serial.png)
-
-### Slave Nodes Output
-| Slave 1 Serial Output | Slave 2 Serial Output |
-| :---: | :---: |
-| ![Slave 1 Serial](assets/slave1_serial.png) | ![Slave 2 Serial](assets/slave2_serial.png) |
-
----
-
-## Demonstration Video
-
-- **Video Link:** [Insert YouTube or Google Drive Link Here]
+*The photo above illustrates the testbed setup: the central Master ESP32 wired with the active-LOW pushbutton on GPIO 18, and both Slave ESP32 boards wired with their respective indicator LEDs on GPIO 4.*
