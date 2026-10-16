@@ -6,12 +6,12 @@ An implementation of Bluetooth Low Energy (BLE) point-to-multipoint communicatio
 
 ## Group Information & Member Roles
 
-- **Group Name:** None
-- **Master Node:** Guido Manfred G. Mejos
+- **Group Name:** 
+- **Master Node:** 
   - *Role & Contribution:* Master BLE client architecture, connection/reconnection logic, tactile button debounce implementation, and repository configuration[cite: 8].
 - **Slave 1 Node:** None
   - *Role & Contribution:* Slave 1 BLE server advertisement configuration, characteristic write handling, and LED circuit wiring[cite: 8].
-- **Slave 2 Node:** None
+- **Slave 2 Node:** 
   - *Role & Contribution:* Slave 2 BLE server setup, unique UUID mapping, output validation, and hardware testing[cite: 8].
 
 ---
