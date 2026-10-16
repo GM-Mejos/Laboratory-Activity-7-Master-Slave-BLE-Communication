@@ -52,3 +52,9 @@ The Master scans and connects to both peripheral devices using their assigned Se
 ![Complete Circuit Setup](assets/circuit_setup.jpg)
 
 *The photo above illustrates the testbed setup: the central Master ESP32 wired with the active-LOW pushbutton on GPIO 18, and both Slave ESP32 boards wired with their respective indicator LEDs on GPIO 4.*
+
+---
+
+## Video Demonstration file
+
+https://drive.google.com/drive/folders/1v8I0pMGEIcOO6iWJEL-duFKVCbgz7XWr?usp=sharing
